@@ -19,7 +19,7 @@ parameters:
   type: string
  public_network_id:
   type: string
-  default: caf8de33-1059-4473-a2c1-2a62d12294fa 
+  default: caf8de33-1059-4473-a2c1-2a62d12294fa
 
 resources:
   allow_ssh:
